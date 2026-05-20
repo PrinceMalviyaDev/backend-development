@@ -1,6 +1,6 @@
 npm init -y    : initiates the node.js application -> give package.json
 
-npm i express   ->  installs express library
+npm i express   ->  installs express library/package
 
 create a "server.js" file
 
