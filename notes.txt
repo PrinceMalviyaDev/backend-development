@@ -1,0 +1,7 @@
+npm init -y    : initiates the node.js application -> give package.json
+
+npm i express   ->  installs express library
+
+create a "server.js" file
+
+node server.js   -> command to start the server
